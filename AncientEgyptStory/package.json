@@ -1,0 +1,18 @@
+{
+  "name": "ancient-egypt-story",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dokumenter animasi 2.5D: konspirasi pembunuhan Firaun Ramesses III (Remotion, JavaScript + JSX)",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render AncientEgyptStory out/video.mp4",
+    "check": "node scripts/check.mjs",
+    "audio": "python3 scripts/make_audio.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.250",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.250"
+  }
+}

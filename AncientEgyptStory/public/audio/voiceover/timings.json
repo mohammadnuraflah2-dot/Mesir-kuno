@@ -1,0 +1,517 @@
+{
+  "fps": 30,
+  "totalDuration": 287.27,
+  "totalFrames": 8619,
+  "segments": [
+    {
+      "index": 1,
+      "file": "segments/01.wav",
+      "start": 0.488,
+      "end": 6.821,
+      "duration": 6.333,
+      "startFrame": 15,
+      "durationInFrames": 190,
+      "text": "Pada zaman Mesir Kuno, menjadi istri seorang Firaun berarti hidup dalam kemewahan yang hampir tidak bisa dibayangkan."
+    },
+    {
+      "index": 2,
+      "file": "segments/02.wav",
+      "start": 7.662,
+      "end": 13.261,
+      "duration": 5.599,
+      "startFrame": 230,
+      "durationInFrames": 168,
+      "text": "Istana dipenuhi emas, pelayan selalu siap melayani, dan setiap perintah kerajaan harus dipatuhi."
+    },
+    {
+      "index": 3,
+      "file": "segments/03.wav",
+      "start": 14.261,
+      "end": 19.437,
+      "duration": 5.176,
+      "startFrame": 428,
+      "durationInFrames": 156,
+      "text": "Namun, di balik kemewahan itu, ada satu hal yang jauh lebih berbahaya daripada perang."
+    },
+    {
+      "index": 4,
+      "file": "segments/04.wav",
+      "start": 20.243,
+      "end": 21.48,
+      "duration": 1.237,
+      "startFrame": 607,
+      "durationInFrames": 38,
+      "text": "Perebutan kekuasaan."
+    },
+    {
+      "index": 5,
+      "file": "segments/05.wav",
+      "start": 22.512,
+      "end": 29.6,
+      "duration": 7.088,
+      "startFrame": 675,
+      "durationInFrames": 213,
+      "text": "Dan salah satu konspirasi paling mengejutkan dalam sejarah Mesir justru melibatkan seorang ratu yang ingin melihat suaminya sendiri mati."
+    },
+    {
+      "index": 6,
+      "file": "segments/06.wav",
+      "start": 30.455,
+      "end": 34.043,
+      "duration": 3.588,
+      "startFrame": 914,
+      "durationInFrames": 108,
+      "text": "Saat itu, Mesir diperintah oleh Firaun Ramesses III."
+    },
+    {
+      "index": 7,
+      "file": "segments/07.wav",
+      "start": 35.051,
+      "end": 42.86,
+      "duration": 7.809,
+      "startFrame": 1052,
+      "durationInFrames": 235,
+      "text": "Dia bukan penguasa biasa. Selama pemerintahannya, Mesir menghadapi ancaman besar dari berbagai musuh, termasuk serangan bangsa-bangsa Laut."
+    },
+    {
+      "index": 8,
+      "file": "segments/08.wav",
+      "start": 43.798,
+      "end": 48.701,
+      "duration": 4.903,
+      "startFrame": 1314,
+      "durationInFrames": 148,
+      "text": "Ramesses III berhasil mempertahankan kerajaannya dan tetap duduk di atas takhta."
+    },
+    {
+      "index": 9,
+      "file": "segments/09.wav",
+      "start": 49.589,
+      "end": 55.157,
+      "duration": 5.568,
+      "startFrame": 1488,
+      "durationInFrames": 168,
+      "text": "Namun, semakin besar kekuasaan seorang Firaun, semakin banyak pula orang yang menginginkan posisinya."
+    },
+    {
+      "index": 10,
+      "file": "segments/10.wav",
+      "start": 56.161,
+      "end": 61.214,
+      "duration": 5.053,
+      "startFrame": 1685,
+      "durationInFrames": 152,
+      "text": "Di dalam istana, salah satu istrinya yang bernama Tiye memiliki ambisi tersendiri."
+    },
+    {
+      "index": 11,
+      "file": "segments/11.wav",
+      "start": 62.146,
+      "end": 66.026,
+      "duration": 3.879,
+      "startFrame": 1864,
+      "durationInFrames": 117,
+      "text": "Dia ingin putranya, Pangeran Pentawere, menjadi penerus takhta."
+    },
+    {
+      "index": 12,
+      "file": "segments/12.wav",
+      "start": 66.919,
+      "end": 68.677,
+      "duration": 1.759,
+      "startFrame": 2008,
+      "durationInFrames": 53,
+      "text": "Tetapi ada masalah besar."
+    },
+    {
+      "index": 13,
+      "file": "segments/13.wav",
+      "start": 69.527,
+      "end": 74.929,
+      "duration": 5.402,
+      "startFrame": 2086,
+      "durationInFrames": 163,
+      "text": "Ramesses III telah memiliki calon penerus lain, yang kemudian dikenal sebagai Ramesses IV."
+    },
+    {
+      "index": 14,
+      "file": "segments/14.wav",
+      "start": 75.927,
+      "end": 82.961,
+      "duration": 7.034,
+      "startFrame": 2278,
+      "durationInFrames": 212,
+      "text": "Artinya, selama Firaun masih hidup dan penerusnya belum berubah, putra Tiye hampir tidak memiliki kesempatan untuk menjadi raja."
+    },
+    {
+      "index": 15,
+      "file": "segments/15.wav",
+      "start": 83.879,
+      "end": 86.704,
+      "duration": 2.825,
+      "startFrame": 2516,
+      "durationInFrames": 85,
+      "text": "Bagi Tiye, ini bukan sekadar masalah keluarga."
+    },
+    {
+      "index": 16,
+      "file": "segments/16.wav",
+      "start": 87.7,
+      "end": 90.133,
+      "duration": 2.433,
+      "startFrame": 2631,
+      "durationInFrames": 74,
+      "text": "Ini adalah perebutan masa depan putranya."
+    },
+    {
+      "index": 17,
+      "file": "segments/17.wav",
+      "start": 91.129,
+      "end": 94.168,
+      "duration": 3.039,
+      "startFrame": 2734,
+      "durationInFrames": 92,
+      "text": "Maka, sebuah rencana rahasia mulai disusun."
+    },
+    {
+      "index": 18,
+      "file": "segments/18.wav",
+      "start": 95.126,
+      "end": 102.633,
+      "duration": 7.507,
+      "startFrame": 2854,
+      "durationInFrames": 226,
+      "text": "Tiye diduga menjalin hubungan dengan sejumlah pejabat istana, pengawal, dan orang-orang yang memiliki akses ke lingkungan kerajaan."
+    },
+    {
+      "index": 19,
+      "file": "segments/19.wav",
+      "start": 103.483,
+      "end": 104.863,
+      "duration": 1.38,
+      "startFrame": 3104,
+      "durationInFrames": 42,
+      "text": "Mereka bukan orang sembarangan."
+    },
+    {
+      "index": 20,
+      "file": "segments/20.wav",
+      "start": 105.732,
+      "end": 110.528,
+      "duration": 4.796,
+      "startFrame": 3172,
+      "durationInFrames": 144,
+      "text": "Sebagian memiliki kedudukan penting dan mengetahui bagaimana keamanan istana bekerja."
+    },
+    {
+      "index": 21,
+      "file": "segments/21.wav",
+      "start": 111.52,
+      "end": 114.851,
+      "duration": 3.331,
+      "startFrame": 3346,
+      "durationInFrames": 100,
+      "text": "Mereka tahu kapan Firaun berada dalam posisi paling rentan."
+    },
+    {
+      "index": 22,
+      "file": "segments/22.wav",
+      "start": 115.745,
+      "end": 122.262,
+      "duration": 6.517,
+      "startFrame": 3472,
+      "durationInFrames": 196,
+      "text": "Dan mereka juga tahu bahwa jika rencana ini berhasil, seluruh kekuasaan Mesir bisa berpindah ke tangan Pentawere."
+    },
+    {
+      "index": 23,
+      "file": "segments/23.wav",
+      "start": 123.11,
+      "end": 125.548,
+      "duration": 2.438,
+      "startFrame": 3693,
+      "durationInFrames": 74,
+      "text": "Akhirnya, konspirasi itu dijalankan."
+    },
+    {
+      "index": 24,
+      "file": "segments/24.wav",
+      "start": 126.541,
+      "end": 131.071,
+      "duration": 4.53,
+      "startFrame": 3796,
+      "durationInFrames": 136,
+      "text": "Ramesses III menjadi korban serangan yang kemudian diduga merenggut nyawanya."
+    },
+    {
+      "index": 25,
+      "file": "segments/25.wav",
+      "start": 131.943,
+      "end": 135.84,
+      "duration": 3.897,
+      "startFrame": 3958,
+      "durationInFrames": 117,
+      "text": "Namun, para pelaku ternyata tidak berhasil menguasai keadaan sepenuhnya."
+    },
+    {
+      "index": 26,
+      "file": "segments/26.wav",
+      "start": 136.758,
+      "end": 138.202,
+      "duration": 1.444,
+      "startFrame": 4103,
+      "durationInFrames": 44,
+      "text": "Rencana mereka terbongkar."
+    },
+    {
+      "index": 27,
+      "file": "segments/27.wav",
+      "start": 139.145,
+      "end": 143.814,
+      "duration": 4.669,
+      "startFrame": 4174,
+      "durationInFrames": 141,
+      "text": "Penyelidikan kerajaan dilakukan, dan sejumlah orang yang terlibat dibawa ke pengadilan."
+    },
+    {
+      "index": 28,
+      "file": "segments/28.wav",
+      "start": 144.726,
+      "end": 152.16,
+      "duration": 7.434,
+      "startFrame": 4342,
+      "durationInFrames": 224,
+      "text": "Dokumen kuno yang dikenal sebagai Papirus Yudisial Turin bahkan mencatat proses pengadilan terhadap para konspirator tersebut."
+    },
+    {
+      "index": 29,
+      "file": "segments/29.wav",
+      "start": 153.079,
+      "end": 160.434,
+      "duration": 7.355,
+      "startFrame": 4592,
+      "durationInFrames": 221,
+      "text": "Sebagian pelaku dijatuhi hukuman mati, sementara Pentawere juga termasuk orang yang harus menghadapi konsekuensi dari keterlibatannya."
+    },
+    {
+      "index": 30,
+      "file": "segments/30.wav",
+      "start": 162.06,
+      "end": 166.098,
+      "duration": 4.038,
+      "startFrame": 4862,
+      "durationInFrames": 122,
+      "text": "Namun, ada satu pertanyaan yang masih menarik perhatian para peneliti."
+    },
+    {
+      "index": 31,
+      "file": "segments/31.wav",
+      "start": 166.902,
+      "end": 169.055,
+      "duration": 2.153,
+      "startFrame": 5007,
+      "durationInFrames": 65,
+      "text": "Bagaimana sebenarnya Ramesses III dibunuh?"
+    },
+    {
+      "index": 32,
+      "file": "segments/32.wav",
+      "start": 170.009,
+      "end": 173.734,
+      "duration": 3.725,
+      "startFrame": 5100,
+      "durationInFrames": 112,
+      "text": "Selama ribuan tahun, tubuh sang Firaun tersimpan sebagai mumi."
+    },
+    {
+      "index": 33,
+      "file": "segments/33.wav",
+      "start": 174.646,
+      "end": 178.441,
+      "duration": 3.795,
+      "startFrame": 5239,
+      "durationInFrames": 114,
+      "text": "Banyak orang mengira misteri kematiannya tidak akan pernah terpecahkan."
+    },
+    {
+      "index": 34,
+      "file": "segments/34.wav",
+      "start": 179.254,
+      "end": 185.249,
+      "duration": 5.995,
+      "startFrame": 5378,
+      "durationInFrames": 180,
+      "text": "Sampai akhirnya, para ilmuwan melakukan pemeriksaan menggunakan teknologi pemindaian CT."
+    },
+    {
+      "index": 35,
+      "file": "segments/35.wav",
+      "start": 186.108,
+      "end": 190.422,
+      "duration": 4.314,
+      "startFrame": 5583,
+      "durationInFrames": 130,
+      "text": "Ketika bagian lehernya diperiksa, mereka menemukan sesuatu yang mengejutkan."
+    },
+    {
+      "index": 36,
+      "file": "segments/36.wav",
+      "start": 191.332,
+      "end": 197.784,
+      "duration": 6.452,
+      "startFrame": 5740,
+      "durationInFrames": 194,
+      "text": "Terdapat luka sayatan yang sangat dalam, hampir memutus bagian leher hingga mencapai tulang belakang."
+    },
+    {
+      "index": 37,
+      "file": "segments/37.wav",
+      "start": 198.668,
+      "end": 203.909,
+      "duration": 5.241,
+      "startFrame": 5960,
+      "durationInFrames": 158,
+      "text": "Temuan itu memperkuat dugaan bahwa Ramesses III dibunuh menggunakan senjata tajam."
+    },
+    {
+      "index": 38,
+      "file": "segments/38.wav",
+      "start": 204.866,
+      "end": 207.673,
+      "duration": 2.807,
+      "startFrame": 6146,
+      "durationInFrames": 85,
+      "text": "Tetapi penelitian tidak berhenti sampai di sana."
+    },
+    {
+      "index": 39,
+      "file": "segments/39.wav",
+      "start": 208.607,
+      "end": 214.172,
+      "duration": 5.565,
+      "startFrame": 6258,
+      "durationInFrames": 167,
+      "text": "Para ilmuwan juga memeriksa sebuah mumi misterius yang dikenal sebagai Unknown Man E."
+    },
+    {
+      "index": 40,
+      "file": "segments/40.wav",
+      "start": 214.991,
+      "end": 218.242,
+      "duration": 3.251,
+      "startFrame": 6450,
+      "durationInFrames": 98,
+      "text": "Kondisinya sangat berbeda dari mumi kerajaan pada umumnya."
+    },
+    {
+      "index": 41,
+      "file": "segments/41.wav",
+      "start": 219.102,
+      "end": 226.263,
+      "duration": 7.161,
+      "startFrame": 6573,
+      "durationInFrames": 215,
+      "text": "Tubuhnya dibungkus dengan kulit kambing, sesuatu yang dianggap tidak pantas dalam tradisi pemakaman Mesir Kuno."
+    },
+    {
+      "index": 42,
+      "file": "segments/42.wav",
+      "start": 227.064,
+      "end": 235.319,
+      "duration": 8.255,
+      "startFrame": 6812,
+      "durationInFrames": 248,
+      "text": "Penelitian DNA menunjukkan bahwa mumi tersebut memiliki hubungan garis keturunan laki-laki dengan Ramesses III."
+    },
+    {
+      "index": 43,
+      "file": "segments/43.wav",
+      "start": 236.292,
+      "end": 242.337,
+      "duration": 6.045,
+      "startFrame": 7089,
+      "durationInFrames": 182,
+      "text": "Para peneliti kemudian mengajukan dugaan bahwa jasad itu mungkin adalah Pangeran Pentawere."
+    },
+    {
+      "index": 44,
+      "file": "segments/44.wav",
+      "start": 243.338,
+      "end": 246.611,
+      "duration": 3.273,
+      "startFrame": 7300,
+      "durationInFrames": 99,
+      "text": "Putra yang diduga ikut dalam rencana pembunuhan ayahnya sendiri."
+    },
+    {
+      "index": 45,
+      "file": "segments/45.wav",
+      "start": 247.405,
+      "end": 250.022,
+      "duration": 2.617,
+      "startFrame": 7422,
+      "durationInFrames": 79,
+      "text": "Dan di sinilah ironi terbesar dari kisah ini."
+    },
+    {
+      "index": 46,
+      "file": "segments/46.wav",
+      "start": 250.881,
+      "end": 255.806,
+      "duration": 4.925,
+      "startFrame": 7526,
+      "durationInFrames": 148,
+      "text": "Tiye diduga merencanakan pembunuhan suaminya demi memberikan takhta kepada putranya."
+    },
+    {
+      "index": 47,
+      "file": "segments/47.wav",
+      "start": 256.684,
+      "end": 258.647,
+      "duration": 1.963,
+      "startFrame": 7701,
+      "durationInFrames": 59,
+      "text": "Namun, rencana tersebut gagal."
+    },
+    {
+      "index": 48,
+      "file": "segments/48.wav",
+      "start": 259.63,
+      "end": 267.117,
+      "duration": 7.487,
+      "startFrame": 7789,
+      "durationInFrames": 225,
+      "text": "Ramesses IV tetap menjadi Firaun berikutnya, sementara Pentawere tidak pernah mendapatkan kerajaan yang diinginkannya."
+    },
+    {
+      "index": 49,
+      "file": "segments/49.wav",
+      "start": 267.991,
+      "end": 274.322,
+      "duration": 6.331,
+      "startFrame": 8040,
+      "durationInFrames": 190,
+      "text": "Sebuah keluarga kerajaan yang memiliki kekuasaan, kekayaan, dan kemewahan luar biasa..."
+    },
+    {
+      "index": 50,
+      "file": "segments/50.wav",
+      "start": 275.152,
+      "end": 278.575,
+      "duration": 3.423,
+      "startFrame": 8255,
+      "durationInFrames": 103,
+      "text": "justru dihancurkan oleh ambisi untuk merebut satu takhta."
+    },
+    {
+      "index": 51,
+      "file": "segments/51.wav",
+      "start": 279.392,
+      "end": 286.291,
+      "duration": 6.899,
+      "startFrame": 8382,
+      "durationInFrames": 207,
+      "text": "Dan setelah lebih dari tiga ribu tahun, tubuh sang Firaun masih menyimpan bukti bisu dari pengkhianatan tersebut."
+    }
+  ]
+}

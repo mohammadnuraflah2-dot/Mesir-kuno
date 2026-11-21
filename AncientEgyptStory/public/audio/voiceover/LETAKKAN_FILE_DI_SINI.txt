@@ -1,0 +1,9 @@
+Letakkan file dari ZIP voice-over di folder ini (tanpa subfolder tambahan):
+
+  master.wav      (wajib)
+  master.srt      (wajib)
+  timings.json    (wajib)
+  segments/       (opsional, tidak dipakai saat render)
+
+Contoh dari ZIP: unzip voiceover_raja_firaun.zip lalu salin isi folder voiceover/ ke sini.
+Setelah itu jalankan: npm run check
